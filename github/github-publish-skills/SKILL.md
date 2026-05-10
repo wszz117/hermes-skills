@@ -111,7 +111,7 @@ for name in skills_to_publish:
         print(f"✅ {name}")
 
 # 5. 添加 README
-readme = f"""# Hermes Skills
+readme = f"""# hem skills
 
 个人自定义 Hermes Agent skills 集合。
 

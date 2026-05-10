@@ -1,4 +1,4 @@
-# Hermes Skills
+# hem skills
 
 个人自定义 Hermes Agent skills 集合。
 
